@@ -22,4 +22,4 @@
 
 3. **Run the app**
 
-   streamlit run app/main.py
+   streamlit run main.py
